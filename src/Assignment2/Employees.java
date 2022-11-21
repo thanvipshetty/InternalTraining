@@ -48,16 +48,5 @@ public class Employees {
                 ", empId=" + empId +
                 '}';
     }
-    //    public String getName()
-//    {
-//        return String.format("%s %s", getFirstName(), getLastName());
-//    }
-
-
-
-
-
-
-
 
 }
